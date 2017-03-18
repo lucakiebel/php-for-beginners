@@ -1,4 +1,4 @@
->*This guide is made for absolute beginners or for people having problems with the basics of the PHP language.
+>*This guide is made for absolute beginners or for people having problems with the basics of the PHP language.*
 
 I have been a PHP-developer for quite some time now, and even though the range of project I finished is bigger that the one of any other programming language, I still make a lot of beginner-type mistakes. 
 This series is not only for the people just starting off with PHP but for anyone else that feels like they need some little help to refresh their basics.
